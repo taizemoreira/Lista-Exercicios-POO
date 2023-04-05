@@ -6,7 +6,7 @@ namespace ExConversaoTemperaturaCelcius
     {
         //Ler a temperatura em Fahrenheit e criar uma instância da classe Temperatura 
         static void Main(string[] args)
-        {
+        { 
             Console.WriteLine("================================");
             Console.WriteLine("  CONVERSÃO DE TEMPERATURA");
             Console.WriteLine("================================\n");
